@@ -1,6 +1,6 @@
-## springjdbc
+#springjdbc
 
-jdbcTemplate提供了五种方法
+##jdbcTemplate提供了五种方法
 1.execute（）可以用于执行各种sql语句，主要用于执行ddl
 2.update（）和bathupdate主要用于执行更新，删除，添加的sql语句
 3.query()以及queryForXxx()：用来执行查询相关的语句
