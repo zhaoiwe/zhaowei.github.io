@@ -2,9 +2,9 @@
 
 ##jdbcTemplate提供了五种方法
 1.execute（）可以用于执行各种sql语句，主要用于执行ddl
-2.update（）和bathupdate主要用于执行更新，删除，添加的sql语句
-3.query()以及queryForXxx()：用来执行查询相关的语句
-4.call()方法：用于执行存储过程、函数相关的语句；
+ 2.update（）和bathupdate主要用于执行更新，删除，添加的sql语句
+  3.query()以及queryForXxx()：用来执行查询相关的语句
+   4.call()方法：用于执行存储过程、函数相关的语句；
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
